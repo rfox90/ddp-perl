@@ -1,4 +1,8 @@
 ddp-perl
 ========
 
-Meteor DDP in Perl. 
+Meteor DDP Client in Perl. 
+
+Very early, in development. Move along
+
+
